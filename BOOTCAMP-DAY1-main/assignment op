@@ -1,0 +1,6 @@
+a=int(input("enter a value1"))
+b=int(input("enter a value2"))
+a+=2
+print(a)
+a-=5
+print(a)

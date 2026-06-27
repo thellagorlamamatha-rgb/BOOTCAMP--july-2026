@@ -1,0 +1,9 @@
+import sys
+my_list=[]
+print(list.__sizeof__(my_list))
+print(sys.getsizeof(my_list))
+for i in range(10):
+    my_list.append(i)
+print(my_list)
+print(list.__sizeof__(my_list))
+print(my_list)

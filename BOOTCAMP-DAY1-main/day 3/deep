@@ -1,0 +1,5 @@
+my_list = [None] * 10
+s_list = my_list   
+s_list[3] = 14
+print(f"Shallow List : {s_list}")
+print(f"Original List: {my_list}")

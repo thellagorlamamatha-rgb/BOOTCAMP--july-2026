@@ -1,0 +1,11 @@
+from abc import ABC
+class Animal(ABC):
+        def eat(ABC):
+            pass
+        def sleep(self):
+            return "Iam sleepimng"
+
+
+
+    
+    

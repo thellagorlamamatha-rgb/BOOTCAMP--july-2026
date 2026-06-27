@@ -1,0 +1,8 @@
+
+class Student:
+    pass
+S1=Student()
+S1.name="xyz"
+S1.Branch="AAABC"
+S1.RNo="123"
+print(S1.name+S1.Branch+S1.RNo)
