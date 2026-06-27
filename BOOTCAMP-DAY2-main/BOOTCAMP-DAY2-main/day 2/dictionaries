@@ -1,0 +1,7 @@
+
+dict1={"name":"mamatha","branch":"CSM","age":18}
+print(dict1)
+dict2={"name":"usha","sports":"running","age":20}
+print(dict2)
+print(dict1.values())
+print(dict2.keys())

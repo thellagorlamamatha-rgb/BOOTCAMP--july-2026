@@ -1,0 +1,8 @@
+tuple1=(1,5,7,8)
+print(tuple1)
+tuple2=(4,6,9,2)
+print(tuple2)
+tuple3=tuple1+tuple2
+print(tuple)
+print(tuple1[2])
+print(tuple3[2:])

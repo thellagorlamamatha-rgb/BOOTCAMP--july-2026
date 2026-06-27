@@ -1,0 +1,7 @@
+set1={2,5,6,8,9}
+print(set1)
+set2={4,6,8}
+print(set2)
+set1.remove(2)
+set2.add(3)
+print(set2)

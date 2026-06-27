@@ -1,0 +1,13 @@
+name1=("ACE")
+name2=("Engineering")
+name3=("college")
+print(name1)
+print(name1+name2)
+print(name1+name2+name3)
+print(name1[2])
+print(name3[:3])
+print(name2[:])
+name2=name2[0].lower()+name2[2:]
+print(name1)
+name4=(name1+name2+name3)
+name1=name1[:].upper()
